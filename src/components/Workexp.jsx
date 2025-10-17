@@ -7,7 +7,7 @@ const Workexp = () => {
                 <h1 className='text-md font-normal mb-4 text-gray-700'>Work Experiance</h1>
                 <div>
                     <div className='flex mb-4'>
-                        <div className='mb-1 w-[50%]'>
+                        <div className='mb-1 w-[350px]'>
                             <p className='text-sm text-gray-500 leading-7 pr-8'>2025 - 2026</p>
                             <p className='flex flex-col text-sm text-gray-700 leading-7 pr-8'>Softurious Technologies <span className='block text-gray-500'> Chennai, TN</span></p>
                         </div>
@@ -30,7 +30,7 @@ const Workexp = () => {
                     </div>
 
                     <div className='flex mb-4'>
-                        <div className='mb-1 w-[50%]'>
+                        <div className='mb-1 w-[350px]'>
                             <p className='text-sm text-gray-500 leading-7 pr-8'>2021 - 2025</p>
                             <p className='flex flex-col text-sm text-gray-700 leading-7 pr-8'>Lookman Electroplast Industries Ltd<span className='block text-gray-500'> Chennai, TN</span></p>
                         </div>
@@ -56,7 +56,7 @@ const Workexp = () => {
                     </div>
 
                     <div className='flex mb-4'>
-                        <div className='mb-1 w-[50%]'>
+                        <div className='mb-1 w-[350px]'>
                             <p className='text-sm text-gray-500 leading-7 pr-8'>2020 - 2021</p>
                             <p className='flex flex-col text-sm text-gray-700 leading-7 pr-8'>Eventus Software Tech Pvt Ltd <span className='block text-gray-500'> Chennai, TN</span></p>
                         </div>
